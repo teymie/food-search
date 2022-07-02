@@ -135,10 +135,10 @@ p{
     }
     .new{
         position: relative;
-        bottom: 150rem;
-        left: 6rem;
+        bottom: 200rem;
+        left: 0;
         padding: 2rem;
-        width: 30rem;
+        width: 20rem;
         background-color: rgb(216, 29, 91);
     } 
 }
