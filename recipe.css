@@ -105,7 +105,7 @@ p{
         bottom: 120rem;
         left: 6rem;
         padding: 2rem;
-        width: 60rem;
+        width: 40rem;
         background-color: rgb(216, 29, 91);
     }
 }
@@ -133,4 +133,12 @@ p{
         margin-left: -1rem;
         padding-left:0 ;
     }
+    .new{
+        position: relative;
+        bottom: 150rem;
+        left: 6rem;
+        padding: 2rem;
+        width: 30rem;
+        background-color: rgb(216, 29, 91);
+    } 
 }
